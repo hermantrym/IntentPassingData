@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent Passing Data</string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="apply">Apply</string>
+</resources>
